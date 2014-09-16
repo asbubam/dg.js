@@ -1,0 +1,15 @@
+{
+    "name": "dg.js",
+    "version": "0.1",
+    "main": "dg.js",
+    "ignore": [
+        ".bowerrc",
+        ".gitignore",
+        "index.html",
+        "README.md"
+    ],
+    "dependencies": {
+    },
+    "devDependencies": {
+    }
+}
